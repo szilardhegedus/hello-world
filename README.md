@@ -1,2 +1,4 @@
 # hello-world
-I'm a PL/SQL Developer and this is my "Hello world!" repository.
+Hello,
+I'm Szilard Hegedus and I'm a PL/SQL Developer.
+This is my first "Hello world!" repository.
